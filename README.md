@@ -16,8 +16,12 @@ Seattle
 ## My Favourite Animals
 Dogs
 
+![Funny Dog] (Steve_Doge.jpeg)
+
 Cats
 
-![Funny Cat] (funny_cat.jpg)
+![Funny Cat] (Funny_cat.jpeg)
 
 Horses
+
+![Funny Horse] (horse_face.jpeg)
