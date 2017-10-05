@@ -6,12 +6,28 @@ Fork it, play with it and improve it!
 hello world
 
 # My Favourite Cities
-New York
+
+**New York**
+
+* Central Park
+![Central Park](Centralpark.jpg)
+
+* Casey Neistat's House
+![Casey Neistat](Caseyneistat.jpg)
+
+**Singapore**
+
+* Marina Bay Sands
+![MBS](MBS.jpg)
 
 
-Singapore
+**Seattle**
 
-Seattle
+* UW
+![UW Campus](UW.jpg)
+
+* Pike Market
+![Pike Place](Pikeplacemarket.jpg)
 
 ## My Favourite Animals
 Dogs
